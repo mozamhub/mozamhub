@@ -42,8 +42,6 @@
 - **[Email Fraud Detection Using ML](#)** — Desktop app that flags fraudulent emails in real time, using text preprocessing, feature extraction, and a Scikit-learn classification model.
 - **[Jarvis Pro Ultimate](#)** — Python-based voice assistant that executes system commands via voice, with local data storage for privacy and cross-platform support.
 
-*(Replace the `#` links above with your actual repo URLs, and pin these repos on your profile for visibility.)*
-
 ---
 
 ### 🎓 Certifications
